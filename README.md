@@ -71,7 +71,7 @@ plt.show()
 ```
 ## Output
 ![sc 3](https://github.com/user-attachments/assets/9115fbcf-602c-4cec-ac6a-7481c566ff83)
-![sc 3](https://github.com/user-attachments/assets/a3037ba0-8184-4654-840f-fa737ec476bd)
+![sc 2](https://github.com/user-attachments/assets/233764ad-60ef-4623-a7e8-2a8d15a08e38)
 ![sc 1](https://github.com/user-attachments/assets/6d54957c-eb3e-47fb-aa11-968b800e8782)
 
 ## Result
